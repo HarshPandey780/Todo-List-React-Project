@@ -6,5 +6,5 @@
 <a href="https://dainty-snickerdoodle-145b48.netlify.app">Website Link</a>
 <h2>Features</h2>
 <ul><li>Add Task</li>
-<li>Remove Task</li
-<li>Remove All Task</li</ul>
+<li>Remove Task</li>
+<li>Remove All Task</li></ul>
